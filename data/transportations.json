@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Mobil",
+    "description": "Kendaraan roda empat yang nyaman untuk perjalanan jarak dekat maupun jauh.",
+    "imgUrl": "https://example.com/images/mobil.jpg",
+    "location": "Jakarta",
+    "price": 500000,
+    "typeId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Motor",
+    "description": "Kendaraan roda dua yang cepat dan efisien untuk perjalanan di kota.",
+    "imgUrl": "https://example.com/images/motor.jpg",
+    "location": "Bandung",
+    "price": 200000,
+    "typeId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Sepeda",
+    "description": "Kendaraan ramah lingkungan yang cocok untuk olahraga dan perjalanan pendek.",
+    "imgUrl": "https://example.com/images/sepeda.jpg",
+    "location": "Yogyakarta",
+    "price": 100000,
+    "typeId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Bus",
+    "description": "Kendaraan besar yang mampu mengangkut banyak penumpang, ideal untuk perjalanan antar kota.",
+    "imgUrl": "https://example.com/images/bus.jpg",
+    "location": "Surabaya",
+    "price": 1500000,
+    "typeId": 4,
+    "authorId": 1
+  },
+  {
+    "name": "Kereta",
+    "description": "Transportasi massal yang cepat dan nyaman untuk perjalanan antar kota dan provinsi.",
+    "imgUrl": "https://example.com/images/kereta.jpg",
+    "location": "Semarang",
+    "price": 300000,
+    "typeId": 5,
+    "authorId": 1
+  },
+  {
+    "name": "Pesawat",
+    "description": "Kendaraan udara yang cepat dan efisien untuk perjalanan jarak jauh.",
+    "imgUrl": "https://example.com/images/pesawat.jpg",
+    "location": "Denpasar",
+    "price": 2000000,
+    "typeId": 6,
+    "authorId": 1
+  },
+  {
+    "name": "Kapal",
+    "description": "Kendaraan laut yang ideal untuk perjalanan antar pulau dan kontainer.",
+    "imgUrl": "https://example.com/images/kapal.jpg",
+    "location": "Makassar",
+    "price": 5000000,
+    "typeId": 7,
+    "authorId": 1
+  },
+  {
+    "name": "Taksi",
+    "description": "Layanan transportasi pribadi yang cepat dan nyaman di dalam kota.",
+    "imgUrl": "https://example.com/images/taksi.jpg",
+    "location": "Medan",
+    "price": 100000,
+    "typeId": 8,
+    "authorId": 1
+  },
+  {
+    "name": "Becak",
+    "description": "Transportasi tradisional beroda tiga yang nyaman untuk perjalanan pendek.",
+    "imgUrl": "https://example.com/images/becak.jpg",
+    "location": "Solo",
+    "price": 50000,
+    "typeId": 9,
+    "authorId": 1
+  },
+  {
+    "name": "Helikopter",
+    "description": "Kendaraan udara yang fleksibel untuk perjalanan ke tempat-tempat yang sulit dijangkau.",
+    "imgUrl": "https://example.com/images/helikopter.jpg",
+    "location": "Balikpapan",
+    "price": 15000000,
+    "typeId": 10,
+    "authorId": 1
+  },
+  {
+    "name": "Skuter Listrik",
+    "description": "Kendaraan listrik yang ramah lingkungan untuk perjalanan pendek di perkotaan.",
+    "imgUrl": "https://example.com/images/skuter_listrik.jpg",
+    "location": "Bandung",
+    "price": 150000,
+    "typeId": 11,
+    "authorId": 1
+  },
+  {
+    "name": "Truk",
+    "description": "Kendaraan besar untuk mengangkut barang dan logistik.",
+    "imgUrl": "https://example.com/images/truk.jpg",
+    "location": "Surabaya",
+    "price": 2500000,
+    "typeId": 12,
+    "authorId": 1
+  },
+  {
+    "name": "Angkot",
+    "description": "Transportasi umum tradisional yang populer di banyak kota di Indonesia.",
+    "imgUrl": "https://example.com/images/angkot.jpg",
+    "location": "Bogor",
+    "price": 5000,
+    "typeId": 13,
+    "authorId": 1
+  },
+  {
+    "name": "Ojek",
+    "description": "Layanan transportasi roda dua yang cepat dan fleksibel untuk perjalanan dalam kota.",
+    "imgUrl": "https://example.com/images/ojek.jpg",
+    "location": "Jakarta",
+    "price": 25000,
+    "typeId": 14,
+    "authorId": 1
+  },
+  {
+    "name": "Perahu",
+    "description": "Kendaraan air kecil untuk perjalanan singkat di danau atau sungai.",
+    "imgUrl": "https://example.com/images/perahu.jpg",
+    "location": "Palembang",
+    "price": 75000,
+    "typeId": 15,
+    "authorId": 1
+  },
+  {
+    "name": "Feri",
+    "description": "Kapal besar yang mengangkut penumpang dan kendaraan antar pulau.",
+    "imgUrl": "https://example.com/images/feri.jpg",
+    "location": "Bali",
+    "price": 200000,
+    "typeId": 16,
+    "authorId": 1
+  },
+  {
+    "name": "LRT",
+    "description": "Kereta ringan untuk transportasi perkotaan yang cepat dan efisien.",
+    "imgUrl": "https://example.com/images/lrt.jpg",
+    "location": "Jakarta",
+    "price": 10000,
+    "typeId": 17,
+    "authorId": 1
+  },
+  {
+    "name": "MRT",
+    "description": "Transportasi cepat perkotaan dengan rute bawah tanah dan layang.",
+    "imgUrl": "https://example.com/images/mrt.jpg",
+    "location": "Jakarta",
+    "price": 15000,
+    "typeId": 18,
+    "authorId": 1
+  },
+  {
+    "name": "Delman",
+    "description": "Transportasi tradisional yang ditarik oleh kuda, populer di daerah wisata.",
+    "imgUrl": "https://example.com/images/delman.jpg",
+    "location": "Yogyakarta",
+    "price": 30000,
+    "typeId": 19,
+    "authorId": 1
+  },
+  {
+    "name": "Bajaj",
+    "description": "Transportasi roda tiga yang cepat dan mudah ditemukan di perkotaan.",
+    "imgUrl": "https://example.com/images/bajaj.jpg",
+    "location": "Jakarta",
+    "price": 20000,
+    "typeId": 20,
+    "authorId": 1
+  }
+]

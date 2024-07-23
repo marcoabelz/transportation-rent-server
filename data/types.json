@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Mobil"
+  },
+  {
+    "name": "Motor"
+  },
+  {
+    "name": "Sepeda"
+  },
+  {
+    "name": "Bus"
+  },
+  {
+    "name": "Kereta"
+  },
+  {
+    "name": "Pesawat"
+  },
+  {
+    "name": "Kapal"
+  },
+  {
+    "name": "Taksi"
+  },
+  {
+    "name": "Becak"
+  },
+  {
+    "name": "Helikopter"
+  },
+  {
+    "name": "Skuter Listrik"
+  },
+  {
+    "name": "Truk"
+  },
+  {
+    "name": "Angkot"
+  },
+  {
+    "name": "Ojek"
+  },
+  {
+    "name": "Perahu"
+  },
+  {
+    "name": "Feri"
+  },
+  {
+    "name": "LRT"
+  },
+  {
+    "name": "MRT"
+  },
+  {
+    "name": "Delman"
+  },
+  {
+    "name": "Bajaj"
+  }
+]
